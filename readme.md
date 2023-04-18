@@ -2,7 +2,10 @@
 
 Created with Node.js, express, PostgreSQL.
 
-You will also to create .env file with current variables: PGHOST='host-link'
+You will also to create .env file with current variables: 
+
+PGHOST='host-link'
+
 PORT='port'
 
 SMTP_HOST='email-host'
